@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./SignUp.css";
 import { useNavigate } from "react-router-dom";
-import axios from "axios";
+// import axios from "axios";
 // import { resources } from "../../resources.jsx";
 import AcademicHub from "../../assets/AcademicHub.png";
 import { toast, ToastContainer } from "react-toastify";

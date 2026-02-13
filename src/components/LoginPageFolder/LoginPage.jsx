@@ -3,7 +3,7 @@ import "./LoginPage.css";
 import { useNavigate } from "react-router-dom";
 import { toast, ToastContainer } from "react-toastify";
 import AcademicHub from "../../assets/AcademicHub.png";
-import axios from "axios";
+// import axios from "axios";
 // import { resources } from "../../resources";
 
 function LoginPage() {
